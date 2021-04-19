@@ -35,7 +35,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "btnMoneyPlant.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",

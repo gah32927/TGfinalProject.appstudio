@@ -35,7 +35,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "btnSpiderPlant.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",

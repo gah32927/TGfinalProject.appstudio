@@ -35,7 +35,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "btnHydrangea.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",

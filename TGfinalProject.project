@@ -38,17 +38,14 @@
           "!type": "External",
           "file": [
             "forms",
-            "Succulent",
-            "Succulent.json"
+            "aloeVera",
+            "aloeVera.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "calendar",
-            "calendar.json"
-          ]
         }
       ],
       "configxml": null,
@@ -70,7 +67,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "plantDirectory",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

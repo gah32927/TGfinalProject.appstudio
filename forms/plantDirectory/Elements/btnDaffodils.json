@@ -35,7 +35,7 @@
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "",
+  "onclick": "btnDaffodils.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
