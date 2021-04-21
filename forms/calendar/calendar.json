@@ -18,11 +18,20 @@
         "Elements",
         "Scheduler1.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calendar",
+        "Elements",
+        "btnSave.json"
+      ]
     }
   ],
   "class": "",
-  "designHeight": 600,
-  "designWidth": 600,
+  "designHeight": 800,
+  "designWidth": 800,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
