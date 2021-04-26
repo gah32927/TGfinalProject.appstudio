@@ -41,8 +41,6 @@
             "forms",
             "HomePage",
             "HomePage.json"
-<<<<<<< Updated upstream
-=======
           ]
         },
         {
@@ -51,7 +49,6 @@
             "forms",
             "Form1",
             "Form1.json"
->>>>>>> Stashed changes
           ]
         }
       ],
