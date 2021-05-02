@@ -25,15 +25,6 @@
         "forms",
         "HomePage",
         "Elements",
-        "btnCalendar.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "HomePage",
-        "Elements",
         "btnWeather.json"
       ]
     },
