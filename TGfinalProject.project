@@ -22,14 +22,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "plantDirectory",
             "plantDirectory.json"
           ]
@@ -46,6 +38,150 @@
           "!type": "External",
           "file": [
             "forms",
+            "cactus",
+            "cactus.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "daffodils",
+            "daffodils.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "geranium",
+            "geranium.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "hydrangea",
+            "hydrangea.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "jadePlant",
+            "jadePlant.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "lilies",
+            "lilies.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "moneyPlant",
+            "moneyPlant.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "orchid",
+            "orchid.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "pilea",
+            "pilea.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "pothos",
+            "pothos.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "rose",
+            "rose.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "snakePlant",
+            "snakePlant.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "spiderPlant",
+            "spiderPlant.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "succulent",
+            "succulent.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "tulip",
+            "tulip.json"
+          ]
+        },
+        {
+          "!type": "Code",
+          "cached_js": null,
+          "cached_js_script_hash": null,
+          "children": [],
+          "expanded_pmp": null,
+          "id": "images1",
+          "language": "Other",
+          "loadType": "",
+          "obfuscate": "false",
+          "script": "",
+          "src": "images1"
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "addUserPlant",
+            "addUserPlant.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "HomePage",
+            "HomePage.json"
+          ]
         }
       ],
       "configxml": null,
@@ -67,7 +203,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "plantDirectory",
+      "firstform": "addUserPlant",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

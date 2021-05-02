@@ -14,9 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "HomePage",
         "Elements",
-        "Button1.json"
+        "lstUserPlant.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "btnCalendar.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "btnWeather.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "btnAddPlant.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "btnDirectory.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "lblHeader.json"
       ]
     }
   ],

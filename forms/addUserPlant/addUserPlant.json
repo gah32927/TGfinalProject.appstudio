@@ -14,63 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "createUser",
+        "addUserPlant",
         "Elements",
-        "btnReturnLogin.json"
+        "drpPlant.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "createUser",
+        "addUserPlant",
         "Elements",
-        "inpNewUser.json"
+        "lblSelect.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "createUser",
+        "addUserPlant",
         "Elements",
-        "inpNewPassword.json"
+        "lblSuccess.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "createUser",
+        "addUserPlant",
         "Elements",
-        "inpFirstName.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "createUser",
-        "Elements",
-        "inpLastName.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "createUser",
-        "Elements",
-        "inpEmail.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "createUser",
-        "Elements",
-        "lblCurrentAccount.json"
+        "btnViewHomePage.json"
       ]
     }
   ],
@@ -80,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "createUser",
+  "id": "addUserPlant",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

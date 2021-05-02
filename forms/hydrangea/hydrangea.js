@@ -6,7 +6,7 @@ hydrangea.onshow=function(){
         results = JSON.parse(req.responseText)
         console.log(`The results are \n ${results}`)
         if (results.length == 0)
-            txtaHydrangea.value = "There are no plants in the database."
+            txtaHydrangea.value = "There are no plant in the database."
         else {
             let message = ""
             for (i = 0; i < results.length; i++)
